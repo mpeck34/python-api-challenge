@@ -5,7 +5,9 @@ Contributors: Mark Peck (Code), EDX (Starting framework), OpenWeather (API), Geo
 Links:
 
 https://www.edx.org/
+
 https://openweathermap.org/
+
 https://www.geoapify.com/
 
 
