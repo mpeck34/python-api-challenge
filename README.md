@@ -1,6 +1,6 @@
 == Monash Data Analysis Bootcamp Week 5 Challenge ==
 
-Contributors: Mark Peck (Code), EDX (Starting framework), OpenWeather (API), Geoapify (API)
+Contributors: Mark Peck (Code), EDX (Starting framework), OpenWeather (API), Geoapify (API), ChatGPT (Assist for syntax)
 
 Links:
 
@@ -9,6 +9,8 @@ https://www.edx.org/
 https://openweathermap.org/
 
 https://www.geoapify.com/
+
+https://chat.openai.com/
 
 
 
